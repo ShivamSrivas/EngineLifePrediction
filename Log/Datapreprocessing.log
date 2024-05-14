@@ -1,0 +1,111 @@
+Date --> 2024-05-06 03:07:12 , ProcessId --> 19100 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 03:07:12 , ProcessId --> 19100 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 03:07:12 , ProcessId --> 19100 , Message --> ProcessedTrainDataset directory created
+Date --> 2024-05-06 03:07:13 , ProcessId --> 19100 , Message --> Text files converted to CSV
+Date --> 2024-05-06 03:23:30 , ProcessId --> 6224 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 03:24:22 , ProcessId --> 19264 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 03:37:15 , ProcessId --> 23688 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 03:37:35 , ProcessId --> 27428 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 03:38:02 , ProcessId --> 39200 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 03:38:02 , ProcessId --> 39200 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 03:38:02 , ProcessId --> 39200 , Message --> ProcessedTrainDataset directory created
+Date --> 2024-05-06 03:38:02 , ProcessId --> 39200 , Message --> DataProcessing got an Exception saying can only join an iterable
+Date --> 2024-05-06 11:04:19 , ProcessId --> 9736 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:04:19 , ProcessId --> 9736 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:04:19 , ProcessId --> 9736 , Message --> ProcessedTrainDataset directory created
+Date --> 2024-05-06 11:04:20 , ProcessId --> 9736 , Message --> Text files converted to CSV
+Date --> 2024-05-06 11:05:52 , ProcessId --> 23952 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:08:15 , ProcessId --> 38120 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:09:53 , ProcessId --> 2276 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:10:45 , ProcessId --> 32888 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:16:28 , ProcessId --> 21728 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:17:03 , ProcessId --> 37072 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:17:38 , ProcessId --> 27896 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:17:52 , ProcessId --> 2772 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:19:25 , ProcessId --> 26592 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:41:22 , ProcessId --> 21932 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:41:22 , ProcessId --> 21932 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:41:23 , ProcessId --> 21932 , Message --> Text files converted to CSV
+Date --> 2024-05-06 11:44:00 , ProcessId --> 24824 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:44:00 , ProcessId --> 24824 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:44:00 , ProcessId --> 24824 , Message --> ProcessedTrainDataset directory created
+Date --> 2024-05-06 11:46:16 , ProcessId --> 41636 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:46:16 , ProcessId --> 41636 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:46:16 , ProcessId --> 41636 , Message --> ProcessedTrainDataset directory created
+Date --> 2024-05-06 11:46:45 , ProcessId --> 10340 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:46:45 , ProcessId --> 10340 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:46:45 , ProcessId --> 10340 , Message --> ProcessedTrainDataset directory created
+Date --> 2024-05-06 11:49:34 , ProcessId --> 39380 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:49:34 , ProcessId --> 39380 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:49:34 , ProcessId --> 39380 , Message --> ProcessedTrainDataset directory created
+Date --> 2024-05-06 11:50:51 , ProcessId --> 16496 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:50:51 , ProcessId --> 16496 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:50:51 , ProcessId --> 16496 , Message --> ProcessedTrainDataset directory created
+Date --> 2024-05-06 11:51:03 , ProcessId --> 6156 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:51:03 , ProcessId --> 6156 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:51:03 , ProcessId --> 6156 , Message --> ProcessedTrainDataset directory created
+Date --> 2024-05-06 11:53:00 , ProcessId --> 17996 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:53:00 , ProcessId --> 17996 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:53:01 , ProcessId --> 17996 , Message --> DataProcessing got an Exception saying [Errno 2] No such file or directory: '/Data/ProcessedTrainDataset/train_FD001.csv'
+Date --> 2024-05-06 11:53:15 , ProcessId --> 19644 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:53:15 , ProcessId --> 19644 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:53:16 , ProcessId --> 19644 , Message --> DataProcessing got an Exception saying [Errno 2] No such file or directory: '/Data/ProcessedTrainDataset/train_FD001.csv'
+Date --> 2024-05-06 11:53:30 , ProcessId --> 11120 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:53:30 , ProcessId --> 11120 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:53:30 , ProcessId --> 11120 , Message --> DataProcessing got an Exception saying [Errno 2] No such file or directory: '/Data/ProcessedTrainDataset/train_FD001.csv'
+Date --> 2024-05-06 11:54:02 , ProcessId --> 40640 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:54:02 , ProcessId --> 40640 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:54:02 , ProcessId --> 40640 , Message --> ProcessedTrainDataset directory created
+Date --> 2024-05-06 11:57:00 , ProcessId --> 39736 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:57:00 , ProcessId --> 39736 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:57:00 , ProcessId --> 39736 , Message --> ProcessedTrainDataset directory created
+Date --> 2024-05-06 11:57:45 , ProcessId --> 28016 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:57:45 , ProcessId --> 28016 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:57:46 , ProcessId --> 28016 , Message --> DataProcessing got an Exception saying [Errno 2] No such file or directory: '/Data/ProcessedTrainDataset/train_FD001.csv'
+Date --> 2024-05-06 11:59:28 , ProcessId --> 41168 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 11:59:28 , ProcessId --> 41168 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 11:59:28 , ProcessId --> 41168 , Message --> DataProcessing got an Exception saying [Errno 2] No such file or directory: '/Data/ProcessedTrainDataset/train_FD001.csv'
+Date --> 2024-05-06 12:00:57 , ProcessId --> 6880 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 12:00:57 , ProcessId --> 6880 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 12:00:58 , ProcessId --> 6880 , Message --> DataProcessing got an Exception saying [Errno 2] No such file or directory: '/Data/ProcessedTrainDataset/train_FD001.csv'
+Date --> 2024-05-06 12:01:18 , ProcessId --> 2792 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 12:01:18 , ProcessId --> 2792 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 12:02:46 , ProcessId --> 29488 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 12:02:46 , ProcessId --> 29488 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 12:05:16 , ProcessId --> 20576 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 12:05:16 , ProcessId --> 20576 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 12:05:17 , ProcessId --> 20576 , Message --> DataProcessing got an Exception saying 0
+Date --> 2024-05-06 12:05:36 , ProcessId --> 39704 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 12:05:36 , ProcessId --> 39704 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 12:50:56 , ProcessId --> 32380 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 12:50:56 , ProcessId --> 32380 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 13:05:55 , ProcessId --> 5360 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:05:55 , ProcessId --> 5360 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 13:06:05 , ProcessId --> 20188 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:07:22 , ProcessId --> 26984 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:07:29 , ProcessId --> 15452 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:07:41 , ProcessId --> 27628 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:08:32 , ProcessId --> 1060 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:09:09 , ProcessId --> 40292 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:09:09 , ProcessId --> 40292 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 13:09:09 , ProcessId --> 40292 , Message --> ProcessedTrainDataset directory created
+Date --> 2024-05-06 13:28:05 , ProcessId --> 29332 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:28:05 , ProcessId --> 29332 , Message --> textDataToCsvConvertion method Invoked
+Date --> 2024-05-06 13:28:22 , ProcessId --> 11512 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:28:38 , ProcessId --> 27848 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:28:55 , ProcessId --> 10324 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:29:03 , ProcessId --> 8860 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:30:03 , ProcessId --> 15336 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:32:45 , ProcessId --> 29908 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:33:28 , ProcessId --> 38920 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:38:04 , ProcessId --> 37624 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:38:28 , ProcessId --> 28528 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:47:55 , ProcessId --> 23832 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:48:51 , ProcessId --> 21212 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:49:14 , ProcessId --> 37664 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:53:44 , ProcessId --> 28516 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:53:57 , ProcessId --> 17900 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:54:01 , ProcessId --> 9928 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:54:30 , ProcessId --> 19312 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:54:49 , ProcessId --> 7252 , Message --> DataProcessing Initiate
+Date --> 2024-05-06 13:56:50 , ProcessId --> 41404 , Message --> DataProcessing Initiate
