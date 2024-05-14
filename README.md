@@ -5,7 +5,7 @@ We need to figure out how long a turbofan jet engine will keep working before it
 NASA's data has lots of information about these jet engines. Each engine is a little different, and they all start with some wear and tear that we don't know about. The data tells us things like how the engines are being used, what sensors are saying, and how many cycles each engine has left before it breaks.
 
 **Possible Solution:**
-To predict when an engine will fail, we'll use fancy math called machine learning. Here's how we'll do it:
+To predict when an engine will fail, we'll use fancy math called machine learning. Here's how we'll do it
 
 
 **Steps Involved:**
