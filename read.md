@@ -7,6 +7,7 @@ NASA's data has lots of information about these jet engines. Each engine is a li
 **Possible Solution:**
 To predict when an engine will fail, we'll use fancy math called machine learning. Here's how we'll do it:
 
+
 **Steps Involved:**
 
 1. **Getting the Data Ready:**
