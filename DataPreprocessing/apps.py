@@ -10,7 +10,6 @@ class Datapreprocessing():
         self.path = "Data\TrainingDataSet"
         log = Logger(self.logPath, self.processId)
         log.loggerCall("DataProcessing Initiate", "Information")
-        # Check if the log directory exists, if not, create it
         log_directory = os.path.dirname(self.logPath)
         if not os.path.exists(log_directory):
             os.makedirs(log_directory)
@@ -42,25 +41,14 @@ class Datapreprocessing():
             log.loggerCall("DataProcessing got an Exception saying " + str(error), "Information")
     
     def load_and_merge_data(self, dataset_number):
-        # Define file paths
         data_file = f"Data/ProcessedTrainDataset/train_FD00{dataset_number}.csv"
         label_file = f"Data/ProcessedTrainDataset/RUL_FD00{dataset_number}.csv"
-        
-        # Load data and label
         data = pd.read_csv(data_file, names=Columns)
         label = pd.read_csv(label_file, names=["RemainingUsefulLife"])
-        
-        # Get unique unit numbers
         unique_units = data["unit number"].unique()
-        
-        # Create a dictionary to map unit numbers to RUL values
         unit_rul_mapping = {}
-        
-        # Assign RUL values for each unit
         for unit in unique_units:
-            unit_rul_mapping[unit] = label.iloc[0]["RemainingUsefulLife"]  # Assuming the RUL values are the same for all observations of each unit
-        
-        # Map RUL values to each observation in data based on unit number
+            unit_rul_mapping[unit] = label.iloc[0]["RemainingUsefulLife"]  
         data["EngineLifeLeft"] = data["unit number"].map(unit_rul_mapping)
         return data
 
